@@ -1,0 +1,76 @@
+HTML: 
+Frontend > todo lo que el usuario ve o consume (interacción) (HTML + css)
+El objetivo es desarrollar sitios y apps web
+
+Diseño web: Historia > HyperText markup lenguaje (1990)
+WEB > INTERCONEXION DE COMPUTADORAS ENTRE SI
+Como se comparten los dato?> tags = etiqueta
+
+HTML > base de toda web
+
+BUENA ESTRUCTURA = ayuda al seo> como podemos hacer que nuestra web sea recomendada por un operador web
+xq aparecen primeros> porque hay que hacer un seguimiento de pasos
+
+Estructura básica de HTML >  
+!DOCTYPE > Indica el tipo de HTML que usamos 
+
+HTML > Primer etiqueta (engloba todo, el contenido)
+
+HEAD> Provee info general del doc (NOS AYUDA A PRESENTAR LA VISUALIZACION DE LA INFO)
+
+BODY > Contenedor para todo el contenido (todo lo que se ve) (ACA VEMOS LO QUE PRESENTAMOS ARRIBA)
+
+HTML > ESTRUCTURA
+CSS > COMO SE VE
+JAVA > ANIMACION O DYNAMISMO
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+*******ACA INFO ARRIBA CARACTERES ABAJO NOMBRE DEL ARCHIVO********
+    <title>Document</title>
+</head>
+<body>
+    *******************ACA VA TODO LO QUE SE VA A VER******************
+</body>
+</html>
+
+SIEMPRE EMPEZAR CON ESTA ESTRCUTURA
+
+Para títulos y letras:
+
+H1 (titulo) headline (usar pocos,es para lo mas importante)
+
+h2 a h6 (subtitulo)
+ (No hay que escribir como se va a ver)
+
+P> es párrafo> me ayuda a escribir cosas mas largas
+br y Hr> br salta de linea y hr salto de linea > cierran con />
+
+A> HYPERVINCULO > Vincular  a otra pagina o sección > href (propiedad de la etiqueta) + otro atributo blank (otra pagina o pestaña)
+title> A donde va o para que se va a usar
+
+img > imágenes > src (fuente)> de donde saco esta imagen url, etc)
+
+IMG + ALT (ATRIBUIR PARA PERSONA CIEGA, DESCRIBE IMAGEN)
+
+Lista> Desordenada(Ul) o ordenadas (ol) > ambos contienen <li>
+
+dd> termino y titulo> sin viñetas
+
+Ordenada> Instrucciones (receta)
+
+TABLAS > 
+<THEAD>
+Marca la cabecera
+Tr (engloba la tabla)> TH> CABECERA> Lunes, martes, miércoles, jueves, viernes
+
+
+<TBODY>
+Marca el cuerpo
+
+
+ 
